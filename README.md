@@ -70,14 +70,13 @@ pip install -r requirements.txt
 ## 📦 Required Libraries
 
 ```
-openai
-python-dotenv
+ollama
 ```
 
 Install manually if needed
 
 ```bash
-pip install openai python-dotenv
+pip install ollama or py -m pip install ollama
 ```
 ## 🚀 Running the Project
 
