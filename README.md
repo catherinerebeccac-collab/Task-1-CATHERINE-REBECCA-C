@@ -1,6 +1,6 @@
 # Zero-Shot & Few-Shot Data Extraction using Prompt Engineering
 
-Project Overview
+Project Overview:
 This project demonstrates how Prompt Engineering techniques can be used to extract structured information from unstructured or messy text using a Large Language Model (LLM). It focuses on implementing **Zero-Shot** and **Few-Shot Prompting** to convert natural language input into machine-readable **JSON** format without training or fine-tuning the model.
 The project emphasizes prompt design, delimiter usage, deterministic outputs, and structured data extraction for real-world applications.
 ---
